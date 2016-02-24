@@ -1,3 +1,4 @@
+#Write code to confirm age for site access
 puts "How old are you?"
 user_input = gets.chomp.to_i
 
